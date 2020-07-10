@@ -1,5 +1,5 @@
 ### Hi there 👋
-    👯 I’m looking to collaborate on AI\ML and 5G
+    👯 I’m looking to collaborate on AI\ML in 5G networks.
     📫 How to reach me: badr7bn@gmail.com
 
 
